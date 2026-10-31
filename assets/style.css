@@ -17,7 +17,7 @@ body {
 }
 
 .section-label {
-    color: #e99a13;
+    color: hsl(90, 85%, 49%);
     font-weight: 700;
     letter-spacing: 2px;
     font-size: 13px;
